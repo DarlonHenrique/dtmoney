@@ -4,6 +4,11 @@
 
 - React ^18.1.0
 - Typescript ^4.4.2
+- Styled-components ^5.3.5
+- React-modal ^3.15.1
+- Axios ^0.27.2
+- MirageJs ^0.1.44
+- polished ^4.2.2
 
 ## Available Scripts
 
